@@ -48,8 +48,8 @@ Here are some of the notable projects I've worked on:
 
 ## 📬 **Get In Touch**
 
-- **Email:** [your.email@example.com](mailto:rv17837@outlook.com)
-- **LinkedIn:** [yourusername](https://www.linkedin.com/in/rohit0111)
+- **Email:** [rv17837@outlook.com](mailto:rv17837@outlook.com)
+- **LinkedIn:** [rohit0111](https://www.linkedin.com/in/rohit0111)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
