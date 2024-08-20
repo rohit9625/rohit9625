@@ -9,10 +9,10 @@
 ## 🛠️ **Technologies & Tools**
 
 - **Languages:** Kotlin, Java, JavaScript
-- **Frameworks & Libraries:** Jetpack Compose, Android SDK, Retrofit, Dagger/Hilt
+- **Frameworks & Libraries:** Jetpack Compose, Android SDK, Retrofit, Dagger-Hilt, Ktor
 - **Tools:** Android Studio, Git, Gradle, Firebase, SQLite, Room
 - **APIs:** RESTful API Development with Node.js, Google APIs, Firebase Cloud Messaging
-- **Version Control:** Git, GitHub, Bitbucket
+- **Version Control:** Git and GitHub
 
 ---
 
@@ -48,20 +48,10 @@ Here are some of the notable projects I've worked on:
 
 ## 📬 **Get In Touch**
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [yourusername](https://linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Portfolio:** [www.yourportfolio.com](https://www.yourportfolio.com)
+- **Email:** [your.email@example.com](mailto:rv17837@outlook.com)
+- **LinkedIn:** [yourusername](https://www.linkedin.com/in/rohit0111)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
-
----
-
-## 🏆 **Achievements & Certifications**
-
-- **Google Associate Android Developer Certification**
-- **Kotlin for Android Developers - Udacity**
-- **Advanced Android Development - Udemy**
 
 ---
 
