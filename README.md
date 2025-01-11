@@ -9,8 +9,8 @@
 ## 🛠️ **Technologies & Tools**
 
 - **Languages:** Kotlin, Java, JavaScript
-- **Frameworks & Libraries:** Jetpack Compose, Android SDK, Retrofit, Dagger-Hilt, Ktor
-- **Tools:** Android Studio, Git, Gradle, Firebase, SQLite, Room
+- **Frameworks & Libraries:** Jetpack Compose, KMP, Compose Multiplatform, Android SDK, Retrofit, Dagger-Hilt, Ktor
+- **Tools:** Android Studio, Git, Gradle, Firebase, Postman, etc.
 - **APIs:** RESTful API Development with Node.js, Google APIs, Firebase Cloud Messaging
 - **Version Control:** Git and GitHub
 
