@@ -64,7 +64,3 @@ I'm continuously learning and growing as a developer. Currently, I'm exploring:
 - Multi-platform development with Kotlin/Native
 
 ---
-
-## 🌟 **Support My Work**
-
-If you find my projects useful or interesting, consider starring my repositories and following me on GitHub!
