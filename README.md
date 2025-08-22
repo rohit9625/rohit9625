@@ -40,6 +40,8 @@ Here are some of the notable projects I've worked on:
 ---
 
 ## 📈 **GitHub Stats**
+![Profile views](https://komarev.com/ghpvc/?username=rohit9625&color=blue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit9625&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit9625&show_icons=true&theme=radical)
 
